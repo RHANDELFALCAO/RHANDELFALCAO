@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Meu nome é Rhandel Falcão. Atuo na área de logística, e estou estudando Data Analytics com a finalidade de migrar de área.</p>
+<p align="left">Meu nome é Rhandel Falcão. Atuo na área de logística, e estou estudando Data Analytics com foco em SQL, ETL, Python e Power BI. Busco migrar de área.</p>
 
 ###
 
